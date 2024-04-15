@@ -1,0 +1,1 @@
+[[ |Session]], {{date}}: Something happened
