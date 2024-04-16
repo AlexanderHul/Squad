@@ -2,7 +2,7 @@
 #### tags:
 #complete
 ## Briefing:
-[[Максвел (Макс) Стерлінг]] пропонує групі [[Блекаут-Альфа]] домовитися з бандою [Йорінобу Арасака](https://cyberpunk.fandom.com/wiki/Yorinobu_Arasaka) - ["Стальні дракони"](https://cyberpunk.fandom.com/wiki/Steel_Dragons) на співпрацю проти [[Arasaka|Арасаки]].
+[[Максвел (Макс) Стерлінг]] пропонує групі [[Raven Symphony]] домовитися з бандою [Йорінобу Арасака](https://cyberpunk.fandom.com/wiki/Yorinobu_Arasaka) - ["Стальні дракони"](https://cyberpunk.fandom.com/wiki/Steel_Dragons) на співпрацю проти [[Arasaka|Арасаки]].
 
 Варіанти взаємодії:
 1. Знищення інформації про Стальних Драконів, що зберігаються на [[Гаральд Торб|жорсткому дискі]].
